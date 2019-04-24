@@ -3,7 +3,7 @@
 ## Badit Problems
 
 ## Dynamic Programming
-### Bellman Equations
+#### Bellman Equations
 
 ## Markow Decision Process
 
