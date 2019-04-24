@@ -17,3 +17,5 @@
 
 # Reference
 
+[1] R.S. Sutton and A.G. Barto. Reinforcement Learning: An Introduction. Cambridge, MA: MIT, 2016 
+
